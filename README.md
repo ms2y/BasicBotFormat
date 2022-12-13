@@ -23,4 +23,4 @@ go to bot settings
 and enable Presence Intent, Server Members Intent, and Message Content Intent
 
 to invite your bot to a server
-https://discord.com/oauth2/authorize?client_id=PASTE APPLICATION ID HERE&permissions=0&scope=bot%20applications.commands
+https://discord.com/oauth2/authorize?client_id=PasteApplicationIDHere&permissions=0&scope=bot%20applications.commands
