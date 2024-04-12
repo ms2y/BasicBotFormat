@@ -1,6 +1,5 @@
 # Basic Discod bot
-Built with [NodeJS](https://discord.js.org/) and [DiscordJS](https://nodejs.org/en
-)
+Built with [NodeJS](https://discord.js.org/) 
 
-![logo](js.png)
+due to changes with how discord bots operate, I don't know if this still functions.
 
